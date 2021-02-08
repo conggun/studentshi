@@ -52,7 +52,6 @@ export default class index extends Component {
                     </div>
                     <div className="showdata">
                         <div className="classify">
-
                             <div><Link to={{ pathname: '/showclass/teacher', state: { classes, identity: "teacher" } }} onClick={()=> this.vanish() }  >所有老师(10)</Link></div>
                             <div><Link to={{ pathname: '/showclass/student', state: { classes, identity: "student" } }} onClick={()=> this.vanish() } >所有学生(10)</Link></div>
                             <div><Link to={{ pathname: '/showclass/patriarch', state: { classes, identity: "patriarch" } }} onClick={()=> this.vanish() } >所有家长(10)</Link></div>

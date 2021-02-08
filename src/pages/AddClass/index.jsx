@@ -30,7 +30,6 @@ export default class AddClass extends Component {
                     <a href=" ">我的班级</a>
                     <BackBtn />
                 </div>
-                <button onClick={this.show}> 哈哈哈哈</button>
                 <div className="addclass">
                     <div className="addclass-text">
                         尊敬的 <span>老师 (刘老师)</span> , 请填写班级信息:
