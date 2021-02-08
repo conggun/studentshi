@@ -1,0 +1,125 @@
+/* 顶部导航条 */
+.top-bar-wrapper {
+    background-color: #ffffff;
+    height: 57px;
+    width: 100%;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.top-bar {
+    width: 1413px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.login {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.login-right {
+    width: 45px;
+    height: 18px; 
+    /* background-image: url(./img/login-right.png); */
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 18px;
+
+}
+
+.login-text {
+    margin: 0 6px;
+}
+
+.top-nav {
+    width: 652px;
+    height: 100%;
+    display: flex;
+    margin-left: 45px;
+    margin-right: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-nav li {
+    height: 100%;
+    flex: 1;
+    text-align: center;
+    position: relative;
+}
+
+.top-nav li a{
+    line-height: 57px;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+}
+.top-nav li::after{
+    content:"";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    height: 2px;
+    width: 0%;
+    background-color:#3ba8f0 ;
+    transition: all 0.5s;
+    
+}
+
+.top-nav li::before{
+    content:"";
+    position: absolute;
+    bottom: 0;
+    left: 0%;
+    height: 2px;
+    width: 100%;
+    background-color:white ;
+    transition: all 0.5s;
+    
+}
+.top-nav li:nth-child(2) a{
+    color: #3ba8f0;
+}
+
+.top-nav li:hover a{
+    color: #3ba8f0;
+}
+
+.top-nav li:hover:after{
+    width: 50%;
+}
+
+.top-nav li:hover::before{
+    background-color: #3ba8f0;
+    width: 100%;
+}
+
+.new{
+    width: 56px;
+    height: 20px;
+    margin-right: 60px;
+    /* background-image: url(./img/new.png); */
+    padding-left: 8px;
+}
+.new a{
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.new a:hover{
+    color:orange ;
+}
+.user{
+    height: 100%;
+    margin-left: 82px;
+    display: flex;
+    align-items: center;
+}
+.tx{
+    margin-right: 13px;
+}

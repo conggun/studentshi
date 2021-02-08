@@ -1,0 +1,97 @@
+/*创建班级 */
+.addclass{
+    width: 100%;
+}
+.addclass-text{
+    width: 100%;
+    height: 53px;
+}
+.addclass-text span{
+    color: #3ba8f0;
+    line-height: 53px;
+}
+
+.class-input div{
+    margin-left: 90px;
+    display: flex;
+    align-items: center;
+}
+.class-input div span{
+    width: 88px;
+    height: 53px;
+    text-align: right;
+    line-height: 53px;
+}
+
+.class-input div .input1{
+    width: 400px;
+    height: 36px;
+    border:1.5px solid  #dddddd ;
+    margin-left: 29px;
+    padding-left: 11px;
+}
+.class-input div span i{
+    color: red;
+    margin-right: 8px;
+}
+
+.class-input div select{
+    width: 413px;
+    height: 38px;
+    border:1.5px solid  #dddddd ;
+    margin-left: 29px;
+    color: #808080;
+    padding-left: 11px;
+}
+
+.tui-checkbox:checked {
+	background:#1673ff
+}
+.tui-checkbox {
+	width:25px;
+	height:25px;
+	background-color:#ffffff;
+	border:solid 1px #dddddd;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	font-size:0.8rem;
+	margin:0;
+	padding:0;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	cursor:default;
+	-webkit-appearance:none;
+	-webkit-user-select:none;
+	user-select:none;
+	-webkit-transition:background-color ease 0.1s;
+    transition:background-color ease 0.1s;
+    margin-left: 29px;
+    margin-right: 10px;
+}
+.tui-checkbox:checked::after {
+	content:'';
+	top:5px;
+	left:5px;
+	position:absolute;
+	background:transparent;
+	border:#fff solid 2px;
+	border-top:none;
+	border-right:none;
+	height:6px;
+	width:10px;
+	-moz-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+}
+
+.submit{
+    width: 100px;
+    height: 36px;
+    border: none;
+    background-color: #3ba8f0;
+    color: white;
+    margin-left: 210px;
+    margin-top: 20px;
+}

@@ -1,1 +1,1 @@
-# studentshi
+npm run json:server

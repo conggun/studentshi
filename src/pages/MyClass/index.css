@@ -1,0 +1,97 @@
+/* 我的班级 */
+.content{
+    width: 1137px;
+    height: 500px;
+    margin-left: 34px;
+}
+
+.content-top{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #e6e7e7;
+    align-items: center;
+}
+
+.content-top a{
+    color: #000000;
+    font-size: 16px;
+}
+
+.administrative-class{
+    width: 100%;
+}
+
+
+.myclass{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.class-text{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+
+.class-text span{
+   
+    color: #8a8a8a;
+}
+.class-wrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.aclass{
+    width: 338px;
+    height: 159px;
+    border: 1.5px solid #dddddd;
+    display: flex;
+    align-items: center;
+    margin-right: 19px;
+    position: relative;
+}
+
+.aclass-img{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.aclass-text{
+    display: flex;
+    flex-direction: column;
+}
+.aclass-text  .class-span1{
+    color: #b8b8b8;
+}
+.aclass-text  .class-span2{
+    color:black ;
+}
+.aclass-text span{
+    margin-bottom: 10px;
+}
+.aclass:hover{
+    border-color:#3ca8f0 ;
+}
+
+.aclass:hover .class-span2{
+    color:#3ca8f0 ;
+}
+.class2{
+    margin-top: 30px;
+}
+
+.class1{
+    position: absolute;
+    right: 0;
+    bottom: -10px;
+    height: 20px;
+    width: 57px;
+    color: white;
+    background-color:#3ba8f0;
+    text-align: center;
+    line-height: 20px;
+}
+

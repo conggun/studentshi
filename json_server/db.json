@@ -1,0 +1,439 @@
+{
+  "class": [
+    {
+      "id": 1,
+      "name": "高中-2020",
+      "grade": "高中",
+      "category": "行政班",
+      "student": [
+        {
+          "identity": "学生",
+          "name": "张一",
+          "id": 1
+        },
+        {
+          "identity": "学生",
+          "name": "张二",
+          "id": 2
+        },
+        {
+          "identity": "学生",
+          "name": "张三",
+          "id": 3
+        },
+        {
+          "identity": "学生",
+          "name": "张四",
+          "id": 4
+        },
+        {
+          "identity": "学生",
+          "name": "张五",
+          "id": 5
+        }
+      ],
+      "teacher": [
+        {
+          "identity": "政治",
+          "name": "王一",
+          "id": 1
+        },
+        {
+          "identity": "历史",
+          "name": "王二",
+          "id": 2
+        },
+        {
+          "identity": "地理",
+          "name": "王三",
+          "id": 3
+        },
+        {
+          "identity": "物理",
+          "name": "王四",
+          "id": 4
+        },
+        {
+          "identity": "化学",
+          "name": "王五",
+          "id": 5
+        }
+      ],
+      "patriarch": [
+        {
+          "identity": "家长",
+          "name": "张六",
+          "id": 1
+        },
+        {
+          "identity": "家长",
+          "name": "张七",
+          "id": 2
+        },
+        {
+          "identity": "家长",
+          "name": "张八",
+          "id": 3
+        },
+        {
+          "identity": "家长",
+          "name": "张九",
+          "id": 4
+        },
+        {
+          "identity": "家长",
+          "name": "张十",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "初中-2020",
+      "grade": "初中",
+      "category": "行政班",
+      "student": [
+        {
+          "identity": "学生",
+          "name": "李一",
+          "id": 1
+        },
+        {
+          "identity": "学生",
+          "name": "李二",
+          "id": 2
+        },
+        {
+          "identity": "学生",
+          "name": "李三",
+          "id": 3
+        },
+        {
+          "identity": "学生",
+          "name": "李四",
+          "id": 4
+        },
+        {
+          "identity": "学生",
+          "name": "李五",
+          "id": 5
+        }
+      ],
+      "teacher": [
+        {
+          "identity": "政治",
+          "name": "王一",
+          "id": 1
+        },
+        {
+          "identity": "历史",
+          "name": "王二",
+          "id": 2
+        },
+        {
+          "identity": "地理",
+          "name": "王三",
+          "id": 3
+        },
+        {
+          "identity": "物理",
+          "name": "王四",
+          "id": 4
+        },
+        {
+          "identity": "化学",
+          "name": "王五",
+          "id": 5
+        }
+      ],
+      "patriarch": [
+        {
+          "identity": "家长",
+          "name": "李六",
+          "id": 1
+        },
+        {
+          "identity": "家长",
+          "name": "李七",
+          "id": 2
+        },
+        {
+          "identity": "家长",
+          "name": "李八",
+          "id": 3
+        },
+        {
+          "identity": "家长",
+          "name": "李九",
+          "id": 4
+        },
+        {
+          "identity": "家长",
+          "name": "李十",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "高中-2019",
+      "grade": "小学",
+      "category": "教学班",
+      "student": [
+        {
+          "identity": "学生",
+          "name": "赵一",
+          "id": 1
+        },
+        {
+          "identity": "学生",
+          "name": "赵二",
+          "id": 2
+        },
+        {
+          "identity": "学生",
+          "name": "赵三",
+          "id": 3
+        },
+        {
+          "identity": "学生",
+          "name": "赵四",
+          "id": 4
+        },
+        {
+          "identity": "学生",
+          "name": "赵五",
+          "id": 5
+        }
+      ],
+      "teacher": [
+        {
+          "identity": "政治",
+          "name": "王一",
+          "id": 1
+        },
+        {
+          "identity": "历史",
+          "name": "王二",
+          "id": 2
+        },
+        {
+          "identity": "地理",
+          "name": "王三",
+          "id": 3
+        },
+        {
+          "identity": "物理",
+          "name": "王四",
+          "id": 4
+        },
+        {
+          "identity": "化学",
+          "name": "王五",
+          "id": 5
+        }
+      ],
+      "patriarch": [
+        {
+          "identity": "家长",
+          "name": "赵六",
+          "id": 1
+        },
+        {
+          "identity": "家长",
+          "name": "赵七",
+          "id": 2
+        },
+        {
+          "identity": "家长",
+          "name": "赵八",
+          "id": 3
+        },
+        {
+          "identity": "家长",
+          "name": "赵九",
+          "id": 4
+        },
+        {
+          "identity": "家长",
+          "name": "赵十",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "高中-2020",
+      "grade": "高中",
+      "category": "教学班",
+      "student": [
+        {
+          "identity": "学生",
+          "name": "张一",
+          "id": 1
+        },
+        {
+          "identity": "学生",
+          "name": "张二",
+          "id": 2
+        },
+        {
+          "identity": "学生",
+          "name": "张三",
+          "id": 3
+        },
+        {
+          "identity": "学生",
+          "name": "张四",
+          "id": 4
+        },
+        {
+          "identity": "学生",
+          "name": "张五",
+          "id": 5
+        }
+      ],
+      "teacher": [
+        {
+          "identity": "政治",
+          "name": "王一",
+          "id": 1
+        },
+        {
+          "identity": "历史",
+          "name": "王二",
+          "id": 2
+        },
+        {
+          "identity": "地理",
+          "name": "王三",
+          "id": 3
+        },
+        {
+          "identity": "物理",
+          "name": "王四",
+          "id": 4
+        },
+        {
+          "identity": "化学",
+          "name": "王五",
+          "id": 5
+        }
+      ],
+      "patriarch": [
+        {
+          "identity": "家长",
+          "name": "张六",
+          "id": 1
+        },
+        {
+          "identity": "家长",
+          "name": "张七",
+          "id": 2
+        },
+        {
+          "identity": "家长",
+          "name": "张八",
+          "id": 3
+        },
+        {
+          "identity": "家长",
+          "name": "张九",
+          "id": 4
+        },
+        {
+          "identity": "家长",
+          "name": "张十",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "高中-2020",
+      "grade": "高中",
+      "category": "教学班",
+      "student": [
+        {
+          "identity": "学生",
+          "name": "张一",
+          "id": 1
+        },
+        {
+          "identity": "学生",
+          "name": "张二",
+          "id": 2
+        },
+        {
+          "identity": "学生",
+          "name": "张三",
+          "id": 3
+        },
+        {
+          "identity": "学生",
+          "name": "张四",
+          "id": 4
+        },
+        {
+          "identity": "学生",
+          "name": "张五",
+          "id": 5
+        }
+      ],
+      "teacher": [
+        {
+          "identity": "政治",
+          "name": "王一",
+          "id": 1
+        },
+        {
+          "identity": "历史",
+          "name": "王二",
+          "id": 2
+        },
+        {
+          "identity": "地理",
+          "name": "王三",
+          "id": 3
+        },
+        {
+          "identity": "物理",
+          "name": "王四",
+          "id": 4
+        },
+        {
+          "identity": "化学",
+          "name": "王五",
+          "id": 5
+        }
+      ],
+      "patriarch": [
+        {
+          "identity": "家长",
+          "name": "张六",
+          "id": 1
+        },
+        {
+          "identity": "家长",
+          "name": "张七",
+          "id": 2
+        },
+        {
+          "identity": "家长",
+          "name": "张八",
+          "id": 3
+        },
+        {
+          "identity": "家长",
+          "name": "张九",
+          "id": 4
+        },
+        {
+          "identity": "家长",
+          "name": "张十",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
